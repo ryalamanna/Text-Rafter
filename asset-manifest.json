@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Text-Rafter/static/css/main.31d6cfe0.css",
+    "main.js": "/Text-Rafter/static/js/main.39e89caf.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Text-Rafter/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Text-Rafter/index.html",
+    "main.39e89caf.js.map": "/Text-Rafter/static/js/main.39e89caf.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Text-Rafter/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.39e89caf.js"
+  ]
+}
